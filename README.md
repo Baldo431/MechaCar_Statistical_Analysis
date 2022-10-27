@@ -25,7 +25,7 @@ A. This linear model does not predict mpg effectively. From our linear regressio
 
 <br>
 <p align="center">
-    <img src="images/Deliverable1.PNG">
+    <img src="Images/Deliverable1.PNG">
     Figure 1 (Linear Regression Results)
 </p>
 <br>
@@ -37,13 +37,13 @@ A. Based on the summary statistics (See Figures 2-3), when the statistics are ge
 
 <br>
 <p align="center">
-    <img src="images/Deliverable2_2.PNG"><br>
+    <img src="Images/Deliverable2_2.PNG"><br>
     Figure 2 (PSI Summary Statistics - All Lots)
 </p>
 <br>
 
 <p align="center">
-    <img src="images/Deliverable2_1.PNG"><br>
+    <img src="Images/Deliverable2_1.PNG"><br>
     Figure 3 (PSI Summary Statistics - By Lot)
 </p>
 <br>
@@ -62,7 +62,7 @@ Four one-sample t-test were performed (See Figure 4) to determine if the PSI acr
 
 <br>
 <p align="center">
-    <img src="images/Deliverable3.PNG"><br>
+    <img src="Images/Deliverable3.PNG"><br>
     Figure 4 (PSI One-Sample T-Tests)
 </p>
 <br>
