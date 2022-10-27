@@ -25,7 +25,7 @@ A. This linear model does not predict mpg effectively. From our linear regressio
 
 <br>
 <p align="center">
-    <img src="images/Deliverable1.png">
+    <img src="images/Deliverable1.PNG">
     Figure 1 (Linear Regression Results)
 </p>
 <br>
